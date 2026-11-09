@@ -15,7 +15,7 @@
 * **Live Interactive Application**: [https://job-analyzer-s3wi.onrender.com](https://job-analyzer-s3wi.onrender.com)
 * **API Health Check**: [https://job-analyzer-s3wi.onrender.com/healthz](https://job-analyzer-s3wi.onrender.com/healthz)
 * **AI Market Analytics View**: [https://job-analyzer-s3wi.onrender.com/#view-ai-analytics](https://job-analyzer-s3wi.onrender.com)
-* **GitHub Repository**: [https://github.com/Rahat69x/Job-Analyzer](https://github.com/Rahat69x/Job-Analyzer)
+* **GitHub Repository**: [https://github.com/rahat4528/Job-Analyzer](https://github.com/rahat4528/Job-Analyzer)
 
 ---
 
@@ -244,7 +244,7 @@ erDiagram
 
 ```bash
 # Clone the repository
-git clone https://github.com/Rahat69x/Job-Analyzer.git
+git clone https://github.com/rahat4528/Job-Analyzer.git
 cd Job-Analyzer
 
 # Create and activate virtual environment
